@@ -1,4 +1,4 @@
-FacturaID,Oficina,Ciudad,LineaProducto,PrecioUnitario,Cantidad,Impuestos,PrecioTotal,FechaCompra,HoraCompra,MetodoPago,Costos,IngresosBrutos,Rating
+FacturaID,Oficina,Ciudad,LineaProducto,PrecioUnitario,Cantidad,Impuestos,Total,FechaCompra,HoraCompra,MetodoPago,Costos,IngresosBrutos,Rating
 101-17-6199,A,Plymouth,Food and beverages,45.79,7,16.03,336.56,13/03/2023,19:44:00,Credit card,320.53,16.03,7
 101-81-4070,C,Glasgow,Health and beauty,62.82,2,6.28,131.92,17/01/2023,12:36:00,Ewallet,125.64,6.28,4.9
 102-06-2002,C,Glasgow,Sports and travel,25.25,5,6.31,132.56,20/03/2023,17:52:00,Cash,126.25,6.31,6.1
